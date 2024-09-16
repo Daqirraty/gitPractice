@@ -1,0 +1,3 @@
+I want us to git fetch to get all changes,
+and then git merge to merge them into our local branch.
+ use git pull 
